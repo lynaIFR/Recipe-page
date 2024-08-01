@@ -43,7 +43,7 @@ body {
     background-color: var(--white);
     border-radius: 2rem;  
     margin: 0 auto;
-    max-width: fit-content;
+    max-width: 43rem;
 }
 
 .articles {
